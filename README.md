@@ -1,3 +1,3 @@
 # arrays
 
-This is just some practice programs for fun. 
+These are just some practice programs for fun. 
